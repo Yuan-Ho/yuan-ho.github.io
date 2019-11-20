@@ -3,26 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yuan-ho.github.io/posts/my-first-post/</loc>
-    <lastmod>2019-11-12T23:53:49+08:00</lastmod>
+    <loc>https://yuan-ho.github.io/posts/local-news-promotional/</loc>
+    <lastmod>2019-11-18T01:04:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuan-ho.github.io/posts/my-seat-at-mtk/</loc>
+    <lastmod>2019-11-18T01:04:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yuan-ho.github.io/posts/</loc>
-    <lastmod>2019-11-12T23:53:49+08:00</lastmod>
+    <lastmod>2019-11-18T01:04:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuan-ho.github.io/posts/trip-to-finland/</loc>
+    <lastmod>2019-11-18T01:04:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yuan-ho.github.io/</loc>
-    <lastmod>2019-11-12T23:53:49+08:00</lastmod>
+    <lastmod>2019-11-18T01:04:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yuan-ho.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yuan-ho.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

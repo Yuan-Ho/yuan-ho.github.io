@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tom&#39;s personal website</title>
+    <title>Posts on Yuan Ho&#39;s Personal Website</title>
     <link>https://yuan-ho.github.io/posts/</link>
-    <description>Recent content in Posts on Tom&#39;s personal website</description>
+    <description>Recent content in Posts on Yuan Ho&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 23:53:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 01:04:37 +0800</lastBuildDate>
     
 	<atom:link href="https://yuan-ho.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creative!</title>
-      <link>https://yuan-ho.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 12 Nov 2019 23:53:49 +0800</pubDate>
+      <title>Local News Promotional</title>
+      <link>https://yuan-ho.github.io/posts/local-news-promotional/</link>
+      <pubDate>Mon, 18 Nov 2019 01:04:37 +0800</pubDate>
       
-      <guid>https://yuan-ho.github.io/posts/my-first-post/</guid>
+      <guid>https://yuan-ho.github.io/posts/local-news-promotional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My seat at MediaTek</title>
+      <link>https://yuan-ho.github.io/posts/my-seat-at-mtk/</link>
+      <pubDate>Mon, 18 Nov 2019 01:04:37 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/posts/my-seat-at-mtk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trip to Finland</title>
+      <link>https://yuan-ho.github.io/posts/trip-to-finland/</link>
+      <pubDate>Mon, 18 Nov 2019 01:04:37 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/posts/trip-to-finland/</guid>
       <description></description>
     </item>
     
