@@ -6,36 +6,39 @@
     <description>Recent content in Posts on Yuan Ho&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 01:04:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 10:24:37 +0800</lastBuildDate>
     
 	<atom:link href="https://yuan-ho.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Local News Promotional</title>
-      <link>https://yuan-ho.github.io/posts/local-news-promotional/</link>
-      <pubDate>Mon, 18 Nov 2019 01:04:37 +0800</pubDate>
+      <title>My seat at MediaTek</title>
+      <link>https://yuan-ho.github.io/posts/my-seat-at-mtk/</link>
+      <pubDate>Fri, 28 Jun 2019 10:24:37 +0800</pubDate>
       
-      <guid>https://yuan-ho.github.io/posts/local-news-promotional/</guid>
-      <description></description>
+      <guid>https://yuan-ho.github.io/posts/my-seat-at-mtk/</guid>
+      <description>July, 2019, the new building of MediaTek is completed and all software teams and some firmware teams of the cellular modem project are moving into it. The new building is only about 80 meters away from the previous one. This picture was taken right before moving. The job is the same, just new seat and office furnitures.
+It is an amazing trip that I have the opprtunity to join the development from 2G to 5G modems.</description>
     </item>
     
     <item>
-      <title>My seat at MediaTek</title>
-      <link>https://yuan-ho.github.io/posts/my-seat-at-mtk/</link>
-      <pubDate>Mon, 18 Nov 2019 01:04:37 +0800</pubDate>
+      <title>Local News Promotional</title>
+      <link>https://yuan-ho.github.io/posts/local-news-promotional/</link>
+      <pubDate>Tue, 01 May 2018 21:52:37 +0800</pubDate>
       
-      <guid>https://yuan-ho.github.io/posts/my-seat-at-mtk/</guid>
-      <description></description>
+      <guid>https://yuan-ho.github.io/posts/local-news-promotional/</guid>
+      <description>May, 2019, MediaTek decided to promote the company&amp;rsquo;s recent achievements in 5G development. In the meantime, one local TV News wants to have more reports on Taiwan&amp;rsquo;s high-tech firms. Therefore, this News clip.
+The rightmost person with left hand half-raised is me. I was holding a cross-site meeting with Finland colleagues. Everybody was laughing because the cameraman asked us to do some actions (give him a shot). Apparently, we didn&amp;rsquo;t know what to do.</description>
     </item>
     
     <item>
       <title>Trip to Finland</title>
       <link>https://yuan-ho.github.io/posts/trip-to-finland/</link>
-      <pubDate>Mon, 18 Nov 2019 01:04:37 +0800</pubDate>
+      <pubDate>Sun, 15 Apr 2018 13:11:37 +0300</pubDate>
       
       <guid>https://yuan-ho.github.io/posts/trip-to-finland/</guid>
-      <description></description>
+      <description>April 2018, 2 colleagues and I were sent to Oulu, Finland by MediaTek to have a 10-days co-working with the L1 people of the company&amp;rsquo;s branch in Finland. The team&amp;rsquo;s people are mostly former employees of Nokia. The subject was partition discussion of the new 5G modem project. We had a great time during the visit, knowing each other, discussing technical topics, exchanging thoughts, etc.. They are excellent engineers.
+The Finland colleagues spoke frankly.</description>
     </item>
     
   </channel>
