@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finland on Yuan Ho</title>
+    <link>https://yuan-ho.github.io/tags/finland/</link>
+    <description>Recent content in finland on Yuan Ho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 13:11:37 +0300</lastBuildDate>
+    
+	<atom:link href="https://yuan-ho.github.io/tags/finland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trip to Finland</title>
+      <link>https://yuan-ho.github.io/blog/2019/07/15/trip-to-finland/</link>
+      <pubDate>Mon, 15 Jul 2019 13:11:37 +0300</pubDate>
+      
+      <guid>https://yuan-ho.github.io/blog/2019/07/15/trip-to-finland/</guid>
+      <description>April 2018, 2 colleagues and I were sent to Oulu, Finland by MediaTek to have a 10-days co-working with the L1 people of the company&amp;rsquo;s branch in Finland. The team&amp;rsquo;s people are mostly former employees of Nokia. The subject was partition discussion of the new 5G modem project. We had a great time during the visit, knowing each other, discussing technical topics, exchanging thoughts, etc.. They are excellent engineers.
+The Finland colleagues spoke frankly.</description>
+    </item>
+    
+  </channel>
+</rss>

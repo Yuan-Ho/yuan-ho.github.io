@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Yuan Ho</title>
+    <link>https://yuan-ho.github.io/tags/news/</link>
+    <description>Recent content in news on Yuan Ho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2018 21:52:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuan-ho.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local News Promotional</title>
+      <link>https://yuan-ho.github.io/blog/2018/05/01/local-news-promotional/</link>
+      <pubDate>Tue, 01 May 2018 21:52:37 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/blog/2018/05/01/local-news-promotional/</guid>
+      <description>May, 2019, MediaTek decided to promote the company&amp;rsquo;s recent achievements in 5G development. In the meantime, one local TV News wants to have more reports on Taiwan&amp;rsquo;s high-tech firms. Therefore, this News clip.
+The rightmost person with left hand half-raised is me. I was holding a cross-site meeting with Finland colleagues. Everybody was laughing because the cameraman asked us to do some actions (give him a shot). Apparently, we didn&amp;rsquo;t know what to do.</description>
+    </item>
+    
+  </channel>
+</rss>
