@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV on Yuan Ho</title>
+    <link>https://yuan-ho.github.io/categories/cv/</link>
+    <description>Recent content in CV on Yuan Ho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2019 23:50:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuan-ho.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>https://yuan-ho.github.io/blog/2019/11/10/my-cv/</link>
+      <pubDate>Sun, 10 Nov 2019 23:50:35 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/blog/2019/11/10/my-cv/</guid>
+      <description>RESEARCH INTERESTS  Natural language processing Data mining Machine learning  &amp;nbsp;
+EDUCATION Graduate Institute of Communication Engineering, National Taiwan University Taipei, Taiwan
+Sep. 2001 – Jun. 2003
+ Degree: Master of Science Master’s thesis: “An Initial Study on Automatic Summarization of Chinese Spoken Documents” Supervisor: Professor Lin-Shan Lee Average: 90.94 / 100; ranking: 13th / 87  Department of Electrical Engineering, National Taiwan University Taipei, Taiwan
+Sep. 1996 – Jun.</description>
+    </item>
+    
+  </channel>
+</rss>
