@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Yuan Ho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2019 23:50:35 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:49:41 +0800</lastBuildDate>
     
 	<atom:link href="https://yuan-ho.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book</title>
+      <link>https://yuan-ho.github.io/categories/book/</link>
+      <pubDate>Sun, 05 Jan 2020 00:49:41 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/categories/book/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CV</title>

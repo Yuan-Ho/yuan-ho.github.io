@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Yuan Ho</title>
+    <link>https://yuan-ho.github.io/categories/book/</link>
+    <description>Recent content in Book on Yuan Ho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2020 00:49:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuan-ho.github.io/categories/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4G LTE-Advanced Pro and The Road to 5G</title>
+      <link>https://yuan-ho.github.io/docs/4g/</link>
+      <pubDate>Sun, 05 Jan 2020 00:49:41 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/docs/4g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to LTE</title>
+      <link>https://yuan-ho.github.io/docs/lte_intro/</link>
+      <pubDate>Sun, 22 Dec 2019 10:08:28 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/docs/lte_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Network Methods for Natural Language Processing</title>
+      <link>https://yuan-ho.github.io/docs/nlp/</link>
+      <pubDate>Mon, 01 Jul 2019 14:15:10 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/docs/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://yuan-ho.github.io/docs/deep_learning/</link>
+      <pubDate>Tue, 21 May 2019 23:41:59 +0800</pubDate>
+      
+      <guid>https://yuan-ho.github.io/docs/deep_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
